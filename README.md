@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imranrisal-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranrisal-dev&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 ## 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranrisal-dev&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imranrisal-dev&theme=tokyonight" />
 </p>
 
 ---
