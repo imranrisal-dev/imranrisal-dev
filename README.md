@@ -1,4 +1,3 @@
-![Banner](./banner.png)
 <h1 align="center">Hi 👋, I'm MD. Imran Hossen</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Django+Developer;React+Developer;Cyber+Security+Expert;AI+%26+Robotics+Enthusiast&center=true&width=500&height=50">
