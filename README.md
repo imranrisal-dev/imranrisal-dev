@@ -9,9 +9,8 @@
 ## 🚀 About Me
 
 - 💻 Full Stack Developer
-- 🤖 AI & Robotics Enthusiast
-- 🔐 Cyber Security Researcher
 - ⚡ Python, Django & React Developer
+- 🤖 AI & Robotics Enthusiast
 - 🛠 PCB Designer
 - 🌍 From Dhaka, Bangladesh
 
